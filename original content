@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet">
+  </head>
+  <style>
+    content {
+      width:;
+      overflow:auto;
+      text-align:center;
+    }
+    body {
+      font-family:lobster;
+      color:white;
+      background-color: rgb(221,160,221);
+    }
+    
+   table {
+     width:50px;
+     border-spacing:70px;
+     height:100%;
+   }
+    th {
+      text-align:center;
+
+    }
+    .righttable {
+     float:right;
+     width:20%;
+     height:100%;
+    }
+    .lefttable {
+      float:left;
+      width:20%;
+      height:100%;
+    }
+    p {
+      
+    }
+  </style>
+    <!--<div <!--class="lefttable"-->
+    <table class="lefttable">  
+<thead>
+  <tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+  <tr>
+    <td>News</td>
+    
+    </tr>
+    <tr>
+    <td>Next CHSCV Mission</td>
+    
+    </tr>
+    <tr>
+    <td>Upcoming Events</td>
+    
+    </tr>
+    <tr>
+    <td>CHS Works</td>
+    
+    </tr>
+  </tbody>
+      </table>
+      </div>
+      <!--<div  <!--class="righttable"--> 
+       <table class="righttable">  
+<thead>
+  <tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+</div>
+<tbody>
+  <tr>
+    <td>Non-Profit Organization for You</td>
+    
+    </tr>
+    <tr>
+    <td>Organize a Mission</td>
+    
+    </tr>
+    <tr>
+    <td>Afterschool Extracurricular Activities</td>
+    
+    </tr>
+    <tr>
+    <td>Student Oriented Organizations</td>
+    
+    </tr>
+  </tbody>
+      </table> 
+      </div>
+      <table>
+      <divclass="content">
+        
+      <h1> Classical High School Volunteers and Coalitions</h1>
+      <p> CHSCV(Classical High School Volunteers and Coalitions) is dedicated to informing other students about local volunteer oppurtunities and providing a platform for students to organize outtings in pursuit of volunteering and making a difference within the community.
+        
+      </p>
+
+      </div>
+      </table>
+
+
+   
+    <script src="index.js"></script>
+  </body>
+</html>
